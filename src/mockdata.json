@@ -1,0 +1,190 @@
+{
+    "Headline": {
+      "EffectiveDate": "2022-08-24T13:00:00+08:00",
+      "EffectiveEpochDate": 1661317200,
+      "Severity": 5,
+      "Text": "Thunderstorms in the area Wednesday afternoon through Wednesday evening",
+      "Category": "thunderstorm",
+      "EndDate": "2022-08-25T01:00:00+08:00",
+      "EndEpochDate": 1661360400,
+      "MobileLink": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?lang=en-us",
+      "Link": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?lang=en-us"
+    },
+    "DailyForecasts": [
+      {
+        "Date": "2022-08-24T07:00:00+08:00",
+        "EpochDate": 1661295600,
+        "Temperature": {
+          "Minimum": {
+            "Value": 78,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 87,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 15,
+          "IconPhrase": "Thunderstorms",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Heavy"
+        },
+        "Night": {
+          "Icon": 42,
+          "IconPhrase": "Mostly cloudy w/ t-storms",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Moderate"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?day=1&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?day=1&lang=en-us"
+      },
+      {
+        "Date": "2022-08-25T07:00:00+08:00",
+        "EpochDate": 1661382000,
+        "Temperature": {
+          "Minimum": {
+            "Value": 79,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 91,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 15,
+          "IconPhrase": "Thunderstorms",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Night": {
+          "Icon": 41,
+          "IconPhrase": "Partly cloudy w/ t-storms",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?day=2&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?day=2&lang=en-us"
+      },
+      {
+        "Date": "2022-08-26T07:00:00+08:00",
+        "EpochDate": 1661468400,
+        "Temperature": {
+          "Minimum": {
+            "Value": 78,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 89,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 6,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Moderate"
+        },
+        "Night": {
+          "Icon": 7,
+          "IconPhrase": "Cloudy",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Moderate"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?day=3&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?day=3&lang=en-us"
+      },
+      {
+        "Date": "2022-08-27T07:00:00+08:00",
+        "EpochDate": 1661554800,
+        "Temperature": {
+          "Minimum": {
+            "Value": 78,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 88,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 6,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Heavy"
+        },
+        "Night": {
+          "Icon": 38,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Moderate"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?day=4&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?day=4&lang=en-us"
+      },
+      {
+        "Date": "2022-08-28T07:00:00+08:00",
+        "EpochDate": 1661641200,
+        "Temperature": {
+          "Minimum": {
+            "Value": 78,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 89,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 15,
+          "IconPhrase": "Thunderstorms",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Night": {
+          "Icon": 38,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Moderate"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?day=5&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ph/manila/264885/daily-weather-forecast/264885?day=5&lang=en-us"
+      }
+    ]
+  }
