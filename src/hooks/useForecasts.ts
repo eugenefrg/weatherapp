@@ -19,7 +19,7 @@ export default function useForecasts(apiKey?: string) {
         setError(null);
 
         return fetch(
-          `http://dataservice.accuweather.com/forecasts/v1/daily/5day/${areaCode}?apikey=${apiKey}&metric=true`
+          `https://dataservice.accuweather.com/forecasts/v1/daily/5day/${areaCode}?apikey=${apiKey}&metric=true`
         )
           .then((response) => response.json())
           .then((data) => {

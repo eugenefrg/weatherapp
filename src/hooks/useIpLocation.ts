@@ -22,7 +22,7 @@ export default function useIpLocation(apiKey?: string) {
 
       // get the location from accuweather.
       fetch(
-        `http://dataservice.accuweather.com/locations/v1/cities/ipaddress?apikey=${apiKey}&q=${ipAddress}`
+        `https://dataservice.accuweather.com/locations/v1/cities/ipaddress?apikey=${apiKey}&q=${ipAddress}`
       )
         .then((response) => response.json())
         .then((data) => {
