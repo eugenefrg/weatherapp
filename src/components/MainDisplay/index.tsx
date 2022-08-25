@@ -5,7 +5,7 @@ import { FC } from "react";
 import getIconUrl from "../../scripts/getIconUrl";
 import { getTimeOfDay } from "../../scripts/getTimeOfDay";
 import { TimeOfDayColors } from "../../scripts/timeOfDayColors";
-import { DailyForecast, TemperatureValue } from "../../types/WeatherTypes";
+import { DailyForecast } from "../../types/WeatherTypes";
 
 interface MainDisplayProps {
   /**
